@@ -5,7 +5,7 @@ To setup project, place the bader-g-weather-widget into the WordPress plugins di
 
 All requirements for the project have been completed including the ability to dynamically set a location.
 
-Made as a WordPress plugin for easy installation. Widget was developed usinh an bbject orientent apprach for scalability. 
+Made as a WordPress plugin for easy installation. Widget was developed using an object orientent apprach for scalability. 
 
 D. A short paragraph outlining your thoughts on the test  
 
