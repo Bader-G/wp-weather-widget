@@ -1,8 +1,12 @@
 # wp-weather-widget
 WordPress dashboard weather widget
 
-A. Any project quirks or setup notes  
-B. Any work left in progress  
-C. A brief justification for any key technical decisions made  
+To setup project, place the bader-g-weather-widget into the WordPress plugins direcotry then activate the plugin.
+
+All requirements for the project have been completed including the ability to dynamically set a location.
+
+Made as a WordPress plugin for easy installation. Widget was developed usinh an bbject orientent apprach for scalability. 
+
 D. A short paragraph outlining your thoughts on the test  
-E. How long the test took to complete  
+
+Test took around 3 hours to complete.
