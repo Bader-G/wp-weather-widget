@@ -1,7 +1,7 @@
 # wp-weather-widget
 WordPress dashboard weather widget
 
-To setup project, place the bader-g-weather-widget into the WordPress plugins directory then activate the plugin.
+To setup project, place the bader-g-weather-widget folder into the WordPress plugins directory then activate the plugin.
 
 All requirements for the project have been completed including the ability to dynamically set a location.
 
