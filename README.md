@@ -7,6 +7,6 @@ All requirements for the project have been completed including the ability to dy
 
 Made as a WordPress plugin for easy installation. Widget was developed using an object orientent apprach for scalability. 
 
-D. A short paragraph outlining your thoughts on the test  
+My thoughts on the test are that it was an engaging test about the use of APIs in a WordPress development environment. 
 
 Test took around 3 hours to complete.
